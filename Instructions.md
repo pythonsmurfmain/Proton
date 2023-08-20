@@ -1,4 +1,4 @@
-# Proton Chatbot
+# Proton Chatbot 😀
 
 Proton Chatbot is an interactive AI-powered application designed to engage in conversations with users. It employs cutting-edge Natural Language Processing (NLP) techniques to understand user input and generate relevant responses.
 
