@@ -1,0 +1,95 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": [
+          "Happy to help!",
+          "Any time!",
+          "My pleasure"
+        ]
+      },
+      {
+        "tag": "items",
+        "patterns": [
+          "Which items do you have?",
+          "What kinds of items are there?",
+          "What do you sell?"
+        ],
+        "responses": [
+          "We sell books and magzines",
+          "We have books and magzines"
+        ]
+      },
+      {
+        "tag": "funny",
+        "patterns": [
+          "Tell me a joke!",
+          "Tell me something funny!",
+          "Do you know a joke?"
+        ],
+        "responses": [
+          "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+          "What did the buffalo say when his son left for college? Bison.",
+          "Parallel lines have so much in common. It's a shame they'll never meet.",
+          "Why don't scientists trust atoms? Because they make up everything.",
+          "I'm reading a book on anti-gravity. It's impossible to put down!"
+        ]
+      },
+      {
+        "tag": "informative",
+        "patterns": [
+          "Tell me an interesting fact",
+          "Share a fun fact",
+          "Give me a cool piece of information"
+        ],
+        "responses": [
+          "The honeybee is the only insect that produces food eaten by humans.",
+          "Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
+          "The Great Wall of China is not visible from space without aid.",
+          "Bananas are berries, but strawberries are not.",
+          "A group of flamingos is called a flamboyance."
+        ]
+      },
+      {
+        "tag": "capabilities",
+        "patterns": [
+          "What can you do?",
+          "Tell me your abilities",
+          "What are your features?"
+        ],
+        "responses": [
+          "I can provide information about our products, tell jokes, share interesting facts, and more!",
+          "I'm here to help you with information, jokes, facts, and more. Just let me know what you need!",
+          "I'm capable of answering questions about our items, making you laugh with jokes, sharing fun facts, and more."
+        ]
+      }
+    ]
+  }
+  
