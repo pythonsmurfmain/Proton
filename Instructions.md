@@ -2,7 +2,7 @@
 
 Proton Chatbot is an interactive AI-powered application designed to engage in conversations with users. It employs cutting-edge Natural Language Processing (NLP) techniques to understand user input and generate relevant responses.
 
-## How It Works
+## How It Works ⚙
 
 The chatbot's core functionality is built upon a Neural Network architecture. When a user enters a message, the chatbot tokenizes and processes the input using NLTK's text processing tools. The processed input is then fed into the Neural Network, which predicts the most relevant intent for the user query. Based on this prediction, the chatbot selects an appropriate response from a set of predefined responses stored in a JSON file.
 
